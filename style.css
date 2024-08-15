@@ -1,0 +1,139 @@
+
+
+/* navbar start*/
+.d-inline-block{
+    border-radius: 50%;
+    width:30px;
+    height:30px;
+    margin-right: 10px;
+}
+.navbar{
+    
+    background-color: #a7acb1;
+    padding-top: 10px;
+    padding-left: 10px;
+    width: 100%;
+    border-radius: 5px;
+    position: fixed;
+    ;
+}
+.navbar-brand{
+    font-weight: bold;
+}
+.navbar-nav{
+    padding-top:10px;
+    font-size: 17px;
+}
+/* navbar end*/
+
+
+/* Card start*/
+.project{
+    margin-top: 50px;
+
+}
+.Card-text-bold{
+    margin-bottom: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+.card{
+    width: 260px;
+    height: 460px;
+    margin-bottom: 20px;
+}
+.card-img-top{
+    width: 260px;
+    height: 310px;
+
+}
+
+
+/* Card  end*/
+
+
+
+/*Home*/
+.home{
+padding-top: 100px;
+}
+
+.home-img{
+    width: 375px;
+    height:425px;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 120px;
+}
+.home-text{
+    margin-top: 90px;
+    margin-left: 60px;
+    margin-right: 140px;
+    text-align: justify;
+}
+/*Home*/
+
+
+
+/* Contact start*/
+
+
+
+
+/* Contact  end*/
+
+/* Button start*/
+.Button-text{
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+}
+.btn-secondary{
+    background-color: rgb(157, 108, 33);
+}
+
+.btn-outline-light{
+    background-color: beige;
+}
+/* Button  end*/
+
+
+/*progress ,dropdown start*/
+
+.progress-top{
+    padding-left: 15px;
+    margin-top: 15px;
+    margin-bottom: 50px;
+
+}
+/*progress ,dropdown end*/
+
+/* contact start */
+.contact-body{
+    background-color: #a7acb1;
+    border-radius: 3px;
+    padding-bottom: 200px;
+
+}
+.contact-me{
+    font-weight: bold;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+.logo{
+    border-radius: 50%;
+    width:20px;
+    height:20px;
+}
+.contact{
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+
+/* contact end */
+.stitch{
+    margin: 50px 150px 30px 50px;
+}
